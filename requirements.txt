@@ -2,6 +2,8 @@ pandas
 numpy
 inflection
 matplotlib
+plotly
 seaborn
 scikit-learn
 imbalanced-learn
+boruta
